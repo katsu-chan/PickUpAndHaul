@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<PUAH.allowCorpses>Разрешить складвать трупы в инвентарь</PUAH.allowCorpses>
+	<PUAH.allowCorpsesTooltip>По умолчанию: выключено, переносить только взятые в руки трупы</PUAH.allowCorpsesTooltip>
+	<PUAH.allowAnimals>Разрешить прирученым стайным животным использовать свой инвентарь для переноски</PUAH.allowAnimals>
+	<PUAH.allowAnimalsTooltip>По умолчанию: включено. Лучше работает с модами дающими рюзаки животным, например VFME Caravan Packs.</PUAH.allowAnimalsTooltip>
+	<PUAH.allowMechanoids>Разрешить взломанным механоидам использовать свой инвентарь для переноски</PUAH.allowMechanoids>
+	<PUAH.allowMechanoidsTooltip>По умолчанию: включено. Требует What The Hack или подобные моды</PUAH.allowMechanoidsTooltip>
+	<PUAH.minimumFreeInventorySpace>Минимальное свободное место в инвентаре, при котором будет происходить переноска.</PUAH.minimumFreeInventorySpace>
+	<PUAH.minimumFreeInventorySpaceTooltip>По умолчанию: 20%. Люди, у которых места в инвентаре меньше чем это число, используют ванильную переноску. 0% заставляет всегда пытаться сложить в инвентарь. 100% завтавляет людей быть голыми.</PUAH.minimumFreeInventorySpaceTooltip>
+</LanguageData>
